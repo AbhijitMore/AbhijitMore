@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am *Abhijit !* 👋
 
 Exploring the world of possibilities through the lens of **Data Science**, **Machine Learning** and **Deep Learning.**
 
