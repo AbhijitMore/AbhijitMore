@@ -7,5 +7,5 @@
 - 👯 I am currently looking to collaborate on cool deep learning projects and would love to know about interesting opportunities!!
 - 📫 How to reach me: [@AbhijitMore](https://www.linkedin.com/in/abhijitmore09/)
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=AbhijitMore&show_icons=true&>
 
