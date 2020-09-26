@@ -1,6 +1,6 @@
 ### Hello, I am *Abhijit !* 👋
 
-Exploring the world of possibilities through the lens of **Data Science**, **Machine Learning** and **Deep Learning.**
+Exploring the world of possibilities through the lens of **Data Science**, **Machine Learning** and **Deep Learning** 🔍.
 
 - 🔭 I’m currently working on: something cool :wink:.
 - 🌱 I’m currently learning: TensorFlow.
