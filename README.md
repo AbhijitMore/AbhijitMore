@@ -1,8 +1,8 @@
-### Hello, I am *Abhijit !* 👋
+## Hello, I am *Abhijit!* 👋
 
- 🔍 Exploring the world of possibilities through the lens of **Data Science**, **Machine Learning** and **Deep Learning**.
+🔍 Diving deep into the realms of **Data Science**, **Machine Learning**, and **Deep Learning** to unlock transformative insights and solutions.
 
-- 🔭 I’m currently working on: something cool :wink:.
-- 🌱 I’m currently learning: LLMs.
-- 👯 I am currently looking to collaborate on cool deep learning projects and would love to know about interesting opportunities!!
-- 📫 How to reach me: [@AbhijitMore](https://www.linkedin.com/in/abhijitmore09/)
+- 🔭 Currently, I am a **Software Engineer at Sony**, driving advancements in **AI and Deep Learning**. 🚀
+- 🌟 Passionate about harnessing the power of **Large Language Models (LLMs)** to revolutionize the way we interact with technology.
+- 👯 Excited to collaborate on groundbreaking deep learning projects and discover innovative opportunities!
+- 📫 Connect with me: [@AbhijitMore](https://www.linkedin.com/in/hey-abhijit-more/)
