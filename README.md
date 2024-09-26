@@ -8,13 +8,13 @@
 - 📫 Connect with me: [@AbhijitMore](https://www.linkedin.com/in/hey-abhijit-more/)
 
 
-[![Build Status](https://img.shields.io/github/workflow/status/username/repo/CI)](https://github.com/AbhijitMore/repo/actions)
-[![Code Quality](https://img.shields.io/codeclimate/quality/username/repo)](https://codeclimate.com/github/AbhijitMore/repo)
-[![License](https://img.shields.io/github/license/username/repo)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/username/repo)](https://github.com/AbhijitMore/repo/issues)
-[![GitHub forks](https://img.shields.io/github/forks/username/repo)](https://github.com/AbhijitMore/repo/network)
-[![GitHub stars](https://img.shields.io/github/stars/username/repo)](https://github.com/AbhijitMore/repo/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/username/repo)](https://github.com/AbhijitMore/repo/commits/main)
+[![Build Status](https://img.shields.io/github/workflow/status/AbhijitMore/repo/CI)](https://github.com/AbhijitMore/repo/actions)
+[![Code Quality](https://img.shields.io/codeclimate/quality/AbhijitMore/repo)](https://codeclimate.com/github/AbhijitMore/repo)
+[![License](https://img.shields.io/github/license/AbhijitMore/repo)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/AbhijitMore/repo)](https://github.com/AbhijitMore/repo/issues)
+[![GitHub forks](https://img.shields.io/github/forks/AbhijitMore/repo)](https://github.com/AbhijitMore/repo/network)
+[![GitHub stars](https://img.shields.io/github/stars/AbhijitMore/repo)](https://github.com/AbhijitMore/repo/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/AbhijitMore/repo)](https://github.com/AbhijitMore/repo/commits/main)
 
 ## 📊 Statistics
 
