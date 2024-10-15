@@ -1,8 +1,6 @@
 ## Hello, I am *Abhijit!* 👋
 
-🔍 I am a deep learning and AI engineer.
-
-- 🔭 As a Software Engineer(AI) at **Sony**, I am working on the intersection of **AI research** and **software development**. 🚀
-- 🌟 Passionate about harnessing the power of **Large Language Models (LLMs)** to revolutionize the way we interact with technology.
-- 👯 Excited to collaborate on groundbreaking deep learning projects and discover innovative opportunities!
-- 📫 Connect with me: [@AbhijitMore](https://www.linkedin.com/in/hey-abhijit-more/)
+- 🔭 Hey there! I’m a Deep Learning and AI Engineer at Sony, where I blend AI research with software development to create impactful solutions.
+- 🚀 My passion lies in leveraging Large Language Models (LLMs) to revolutionize our interactions with technology, transforming the landscape epoch by epoch through techniques like fine-tuning and transfer learning.
+- 🌟 I thrive on collaboration and enjoy diving into innovative deep learning projects, exploring neural architectures, and optimizing performance metrics.
+- 🤝 Let’s connect and explore exciting opportunities in the ever-evolving AI landscape!
