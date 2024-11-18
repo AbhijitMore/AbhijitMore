@@ -1,4 +1,4 @@
-## Hello, I am *[Abhijit!](https://www.linkedin.com/in/hey-abhijit-more/)* 👋
+## Hello, I am *[Abhijit!]([https://www.linkedin.com/in/hey-abhijit-more/](https://abhijitmore.github.io/about/))* 👋
 
 - 🔭 I am a Deep Learning and AI Engineer at Sony, where I blend AI research with software development to create impactful solutions.
 - 🚀 I am passionate about using NLP and Computer Vision to transform how we interact with technology, evolving it epoch by epoch.
