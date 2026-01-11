@@ -15,16 +15,6 @@ My work sits at the intersection of **deep learning, multimodal intelligence, an
 
 ---
 
-### 🔬 Technical Interests
-- **Scam & Abuse Detection**
-- **Multimodal Learning (Text + Vision)**
-- **Deep Learning Systems**
-- **Model Optimization & Inference Efficiency**
-- **LLMs in Production**
-- **AI for Trust, Safety, and Security**
-
----
-
 ### 🧰 Tech Stack
 
 #### 🧠 Machine Learning & Deep Learning
