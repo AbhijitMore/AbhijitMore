@@ -1,8 +1,8 @@
 ## Hello, I’m [Abhijit More](https://abhijitmore.github.io/about/) 👋  
 
-I’m a **Machine Learning & AI Engineer at F-Secure**, building **production-grade AI systems to protect users from scams and digital threats at scale**.
+I’m a **Machine Learning Engineer at F-Secure**, building **production-grade AI systems to protect users from scams and digital threats at scale**.
 
-My work sits at the intersection of **deep learning, multimodal intelligence, and real-world system constraints** — where models must be **accurate, fast, robust, and deployable**, not just state-of-the-art on paper.
+My work sits at the intersection of **deep learning, multimodal intelligence, and real-world system constraints** — where models must be **accurate, fast, robust, and deployable**, not just SOTA on paper.
 
 ---
 
