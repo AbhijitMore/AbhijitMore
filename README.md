@@ -4,7 +4,7 @@
 
 **Machine Learning Engineer @ F-Secure** · production AI for trust & safety
 
-Building scam detection at **~5M messages/month**, **sub-800ms p95**, **99% uptime** — plus open-source search, RAG, and decision-intelligence systems.
+I build production AI for scam detection, multimodal threat intelligence, and privacy-preserving ML. I also work on open-source search, RAG, and decision-intelligence systems in my spare time.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abhijitmore.github.io-0969da?style=for-the-badge&logo=githubpages&logoColor=white)](https://abhijitmore.github.io)
 [![Resume](https://img.shields.io/badge/Resume-view-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white)](https://abhijitmore.github.io/resume/)
@@ -14,68 +14,63 @@ Building scam detection at **~5M messages/month**, **sub-800ms p95**, **99% upti
 
 ---
 
-## ⭐ Featured Work
+## Featured Work
 
 | Project | What it does | Impact |
 | :-- | :-- | :-- |
-| [**RelevanceIQ**](https://github.com/AbhijitMore/relevanceiq) | Hybrid retrieval + citation-grounded RAG over 568K Amazon reviews | **+17.7% NDCG@10** · **97.5% faithfulness** · sub-**80ms** p95 search |
-| [**KAIROS**](https://github.com/AbhijitMore/kairos) | Production decision engine with hybrid ensembles & calibration | **96% precision** · **70% automation** · ECE **< 0.02** |
-| **F-Secure** *(production)* | Scam detection platform · WhatsApp scanner · privacy-preserving ML pipeline | **~5M** msgs/mo · **~12%** coverage lift · **~15%** more usable labeled data |
+| [**RelevanceIQ**](https://github.com/AbhijitMore/relevanceiq) | Hybrid retrieval and citation-grounded RAG over 568K Amazon reviews | +17.7% NDCG@10, 97.5% faithfulness, sub-80ms p95 search |
+| [**KAIROS**](https://github.com/AbhijitMore/kairos) | Production decision engine with hybrid ensembles and calibration | 96% precision, 70% automation, ECE < 0.02 |
+| **F-Secure** *(production)* | Scam detection platform, WhatsApp scanner, privacy-preserving ML pipeline | Production ML for trust and safety at scale |
 
-📖 **Write-ups:** [RelevanceIQ](https://abhijitmore.github.io/posts/RelevanceIQ-Grounded-Product-Search/) · [KAIROS](https://abhijitmore.github.io/posts/KAIROS-Decision-Intelligence-System/)
-
----
-
-## 🛡️ What I Do
-
-- 🔍 Design and deploy **AI systems that detect and prevent scams** across text, images, and user interaction signals
-- ⚙️ Build **end-to-end ML pipelines** — data → model → inference → monitoring
-- 🚀 Ship **low-latency, high-reliability** AI under real production constraints
-- 🧠 Apply **NLP, computer vision, multimodal learning, and agents** to user safety problems
-- 📦 Production-first: testing, observability, privacy, and measurable impact over demos
-
-**Previously:** Software Engineer (AI/ML) @ Sony · AI/ML Trainee @ IITM Pravartak · Associate SWE @ HighRadius
+**Write-ups:** [RelevanceIQ](https://abhijitmore.github.io/posts/RelevanceIQ-Grounded-Product-Search/) · [KAIROS](https://abhijitmore.github.io/posts/KAIROS-Decision-Intelligence-System/)
 
 ---
 
-## 🧰 Stack
+## What I Do
 
-**ML & Data** · Python · PyTorch · scikit-learn · LightGBM · CatBoost · MLflow · Pandas
+I design and deploy AI systems that detect and prevent scams across text, images, and user interaction signals. Most of my work sits in the full stack: data pipelines, model training, inference, monitoring, and the infrastructure that keeps it all running in production.
 
-**Gen AI & Search** · LLMs · RAG · LangChain · LangGraph · BM25 · FAISS · OpenSearch · cross-encoder reranking
-
-**Production** · FastAPI · Docker · Prometheus · Grafana · AWS · CI/CD · ONNX · TensorRT
-
-**Edge & Vision** · Jetson · Raspberry Pi · CNNs · ViTs · object detection
+I care about low latency, reliability under real constraints, and systems that are still understandable months after launch. Before F-Secure, I worked on AI/ML at Sony, trained at IITM Pravartak, and started out in applied ML at HighRadius.
 
 ---
 
-## 📌 How I Work
+## Skills
 
-> **Real-world AI is not about the model alone.**  
-> It's about data quality, system design, latency budgets, failure modes, and long-term maintainability.
+**Machine Learning:** Scikit-learn, LightGBM, CatBoost, PyTorch, TensorFlow, statistical calibration, experiment tracking, model serving, observability
 
-- Clear problem formulation and strong baselines
-- Metrics that matter in production, not just offline benchmarks
-- Privacy, compliance, and observability built in from day one
+**Generative AI:** LLMs, AI agents, agentic workflows, LangChain, LangGraph, RAG, query reformulation, citation grounding, FAISS, MCP, inference optimization
+
+**Search & Retrieval:** BM25, dense retrieval, hybrid retrieval, RRF, cross-encoder reranking, OpenSearch, Lucene, search evaluation
+
+**Computer Vision:** CNNs, vision transformers, object detection and segmentation, multimodal ML, edge deployment, TensorRT, Jetson
+
+**Trust & Safety:** Scam detection, NLP, multimodal threat intelligence, PII detection, privacy-preserving ML
+
+**Engineering & Cloud:** Python, SQL, Git, Docker, Linux, CI/CD, AWS (SageMaker, Bedrock, Lambda), MLflow, Prometheus, Grafana, ONNX, FastAPI
 
 ---
 
-## 🤝 Connect
+## How I Work
 
-- 🌐 **Portfolio:** [abhijitmore.github.io](https://abhijitmore.github.io)
-- 📄 **Resume:** [abhijitmore.github.io/resume](https://abhijitmore.github.io/resume/)
-- 💼 **LinkedIn:** [linkedin.com/in/hey-abhijit-more](https://www.linkedin.com/in/hey-abhijit-more)
-- ✉️ **Email:** abhimore822@gmail.com
+> Real-world AI is not about the model alone. It's about whether the data is trustworthy, the system holds up under real constraints, bad decisions are caught before they reach users, and the platform stays operable long after launch.
 
-Always open to discussions around **applied ML, trust & safety, search, and production AI systems**.
+I start with a clear problem and a strong baseline. I measure what actually matters in production, not just what looks good offline. Privacy, compliance, and observability are part of the design from the start, not something bolted on later.
+
+---
+
+## Connect
+
+- **Portfolio:** [abhijitmore.github.io](https://abhijitmore.github.io)
+- **Resume:** [abhijitmore.github.io/resume](https://abhijitmore.github.io/resume/)
+- **LinkedIn:** [linkedin.com/in/hey-abhijit-more](https://www.linkedin.com/in/hey-abhijit-more)
+- **Email:** abhimore822@gmail.com
+
+Happy to talk about applied ML, trust and safety, search, or production AI systems.
 
 ---
 
 <div align="center">
 
-⭐ Explore [**relevanceiq**](https://github.com/AbhijitMore/relevanceiq) and [**kairos**](https://github.com/AbhijitMore/kairos) — or reach out if you're building something similar.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhijitMore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+If any of this resonates, check out [**relevanceiq**](https://github.com/AbhijitMore/relevanceiq) and [**kairos**](https://github.com/AbhijitMore/kairos), or just reach out.
 
 </div>
