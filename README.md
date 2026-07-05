@@ -12,7 +12,6 @@ I build production systems for **agentic AI, RAG, low-latency inference, and sea
 
 </div>
 
----
 
 ## Featured Work
 
@@ -24,7 +23,6 @@ I build production systems for **agentic AI, RAG, low-latency inference, and sea
 
 **Write-ups:** [RelevanceIQ](https://abhijitmore.github.io/posts/RelevanceIQ-Grounded-Product-Search/) · [KAIROS](https://abhijitmore.github.io/posts/KAIROS-Decision-Intelligence-System/)
 
----
 
 ## How I Work
 
@@ -34,7 +32,6 @@ I start with a clear problem and a strong baseline. I measure what actually matt
 
 **Background:** ML Engineer @ F-Secure · Ex-Sony (AI/ML, edge inference) · IITM Pravartak · HighRadius
 
----
 
 ## Skills
 
@@ -50,7 +47,6 @@ I start with a clear problem and a strong baseline. I measure what actually matt
 
 **Engineering & Cloud:** Python, SQL, Git, Docker, Linux, CI/CD, AWS (SageMaker, Bedrock, Lambda), MLflow, Prometheus, Grafana
 
----
 
 ## Connect
 
