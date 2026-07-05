@@ -1,69 +1,81 @@
-## Hello, I’m [Abhijit More](https://abhijitmore.github.io/about/) 👋  
+<div align="center">
 
-I’m a **Machine Learning Engineer at F-Secure**, building **production-grade AI systems to protect users from scams and digital threats at scale**.
+# Hi, I'm Abhijit More 👋
 
-My work sits at the intersection of **deep learning, multimodal intelligence, and real-world system constraints** — where models must be **accurate, fast, robust, and deployable**, not just SOTA on paper.
+**Machine Learning Engineer @ F-Secure** · production AI for trust & safety
 
----
+Building scam detection at **~5M messages/month**, **sub-800ms p95**, **99% uptime** — plus open-source search, RAG, and decision-intelligence systems.
 
-### 🛡️ What I Do
-- 🔍 Design and deploy **AI systems that detect and prevent scams** across text, images, and user interaction signals  
-- ⚙️ Build **end-to-end ML pipelines** — from data → model → inference → monitoring  
-- 🚀 Focus on **low-latency, high-reliability** AI under real-world constraints  
-- 🧠 Apply **NLP, Computer Vision, and multimodal learning** to user safety problems  
-- 📦 Production-first mindset: testing, observability, scalability, and maintainability
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhijitmore.github.io-0969da?style=for-the-badge&logo=githubpages&logoColor=white)](https://abhijitmore.github.io)
+[![Resume](https://img.shields.io/badge/Resume-view-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white)](https://abhijitmore.github.io/resume/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hey-abhijit-more)
 
----
-
-### 🧰 Tech Stack
-
-#### 🧠 Machine Learning & Deep Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-
-#### 🧠 LLMs & Generative AI
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-#### ☁️ MLOps, Deployment & Systems
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-#### 🗄️ Databases & Storage
-![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+</div>
 
 ---
 
-### 📌 Engineering Philosophy
+## ⭐ Featured Work
+
+| Project | What it does | Impact |
+| :-- | :-- | :-- |
+| [**RelevanceIQ**](https://github.com/AbhijitMore/relevanceiq) | Hybrid retrieval + citation-grounded RAG over 568K Amazon reviews | **+17.7% NDCG@10** · **97.5% faithfulness** · sub-**80ms** p95 search |
+| [**KAIROS**](https://github.com/AbhijitMore/kairos) | Production decision engine with hybrid ensembles & calibration | **96% precision** · **70% automation** · ECE **< 0.02** |
+| **F-Secure** *(production)* | Scam detection platform · WhatsApp scanner · privacy-preserving ML pipeline | **~5M** msgs/mo · **~12%** coverage lift · **~15%** more usable labeled data |
+
+📖 **Write-ups:** [RelevanceIQ](https://abhijitmore.github.io/posts/RelevanceIQ-Grounded-Product-Search/) · [KAIROS](https://abhijitmore.github.io/posts/KAIROS-Decision-Intelligence-System/)
+
+---
+
+## 🛡️ What I Do
+
+- 🔍 Design and deploy **AI systems that detect and prevent scams** across text, images, and user interaction signals
+- ⚙️ Build **end-to-end ML pipelines** — data → model → inference → monitoring
+- 🚀 Ship **low-latency, high-reliability** AI under real production constraints
+- 🧠 Apply **NLP, computer vision, multimodal learning, and agents** to user safety problems
+- 📦 Production-first: testing, observability, privacy, and measurable impact over demos
+
+**Previously:** Software Engineer (AI/ML) @ Sony · AI/ML Trainee @ IITM Pravartak · Associate SWE @ HighRadius
+
+---
+
+## 🧰 Stack
+
+**ML & Data** · Python · PyTorch · scikit-learn · LightGBM · CatBoost · MLflow · Pandas
+
+**Gen AI & Search** · LLMs · RAG · LangChain · LangGraph · BM25 · FAISS · OpenSearch · cross-encoder reranking
+
+**Production** · FastAPI · Docker · Prometheus · Grafana · AWS · CI/CD · ONNX · TensorRT
+
+**Edge & Vision** · Jetson · Raspberry Pi · CNNs · ViTs · object detection
+
+---
+
+## 📌 How I Work
+
 > **Real-world AI is not about the model alone.**  
-> It’s about data quality, system design, latency budgets, failure modes, and long-term maintainability.
+> It's about data quality, system design, latency budgets, failure modes, and long-term maintainability.
 
-I care deeply about:
-- Clear problem formulation  
-- Strong baselines  
-- Measurable impact  
-- Production-readiness over demos  
+- Clear problem formulation and strong baselines
+- Metrics that matter in production, not just offline benchmarks
+- Privacy, compliance, and observability built in from day one
 
 ---
 
-### 🤝 Let’s Connect
-- 🌐 Portfolio: [abhijitmore.github.io](https://abhijitmore.github.io)
-- 💼 LinkedIn: [linkedin.com/in/hey-abhijit-more](https://www.linkedin.com/in/hey-abhijit-more)
-- 🧠 Always open to discussions around **AI for security, trust, and safety**
+## 🤝 Connect
+
+- 🌐 **Portfolio:** [abhijitmore.github.io](https://abhijitmore.github.io)
+- 📄 **Resume:** [abhijitmore.github.io/resume](https://abhijitmore.github.io/resume/)
+- 💼 **LinkedIn:** [linkedin.com/in/hey-abhijit-more](https://www.linkedin.com/in/hey-abhijit-more)
+- ✉️ **Email:** abhimore822@gmail.com
+
+Always open to discussions around **applied ML, trust & safety, search, and production AI systems**.
 
 ---
 
-⭐ If you’re interested in **applied ML, user safety, or production AI systems**, feel free to explore my repositories or reach out!
+<div align="center">
+
+⭐ Explore [**relevanceiq**](https://github.com/AbhijitMore/relevanceiq) and [**kairos**](https://github.com/AbhijitMore/kairos) — or reach out if you're building something similar.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhijitMore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+</div>
