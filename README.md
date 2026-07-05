@@ -19,7 +19,6 @@ I build production systems for **agentic AI, RAG, low-latency inference, and sea
 | :-- | :-- | :-- |
 | [**RelevanceIQ**](https://github.com/AbhijitMore/relevanceiq) | Hybrid retrieval, reranking, and citation-grounded RAG over 568K Amazon reviews | +17.7% NDCG@10, 97.5% faithfulness, sub-80ms p95 search |
 | [**KAIROS**](https://github.com/AbhijitMore/kairos) | Production decision engine with hybrid ensembles, calibration, and observability | 96% precision, 70% automation, ECE < 0.02 |
-| **Sony** *(Ex, production)* | Distributed transformer inference on edge devices and computer vision on Jetson | Split DeepSeek/Phi-3 across Pi and Jetson; 82% image QA on Orin NX |
 
 **Write-ups:** [RelevanceIQ](https://abhijitmore.github.io/posts/RelevanceIQ-Grounded-Product-Search/) · [KAIROS](https://abhijitmore.github.io/posts/KAIROS-Decision-Intelligence-System/)
 
